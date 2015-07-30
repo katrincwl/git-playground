@@ -1,2 +1,2 @@
 # git-playground
-A playground for anyone to try the git function
+A playground for anyone to try git functions
